@@ -1,0 +1,5 @@
+wazo-python-flask-classful-packaging (0.13.1-1~wazo1) wazo-dev; urgency=medium
+
+  *  First commit
+
+ -- Wazo Maintainers <dev.wazo@gmail.com>  Mon, 30 Jan 2017 14:26:06 -0500
