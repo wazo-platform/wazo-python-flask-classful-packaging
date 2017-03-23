@@ -1,3 +1,9 @@
+wazo-python-flask-classful-packaging (0.13.1-1~wazo3) wazo-dev; urgency=medium
+
+  * README: add build information
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 23 Mar 2017 07:55:49 -0400
+
 wazo-python-flask-classful-packaging (0.13.1-1~wazo2) wazo-dev; urgency=medium
 
   * builder test
