@@ -1,3 +1,9 @@
+wazo-python-flask-classful-packaging (0.13.1-1~wazo4) wazo-dev; urgency=medium
+
+  * add python3 package 
+
+ -- cabunar <cabunar@cabunar-t470.wazo.io>  Mon, 06 Nov 2017 14:56:23 -0500
+
 wazo-python-flask-classful-packaging (0.13.1-1~wazo3) wazo-dev; urgency=medium
 
   * README: add build information
