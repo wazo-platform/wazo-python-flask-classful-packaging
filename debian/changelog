@@ -1,4 +1,4 @@
-wazo-python-flask-classful-packaging (0.13.1-1~wazo4) wazo-dev; urgency=medium
+wazo-python-flask-classful-packaging (0.13.1-1~wazo5) wazo-dev; urgency=medium
 
   * add python3 package 
 
