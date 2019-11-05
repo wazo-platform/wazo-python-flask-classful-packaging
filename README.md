@@ -3,6 +3,11 @@
 This repository contains the packaging information for
 [flask-classful](https://github.com/teracyhq/flask-classful).
 
+## Reason
+
+* Not packaged by Debian Buster
+* Needed by wazo-ui
+
 ## Building a New Version
 
 To build a new version of python-flask-classful for Wazo.
