@@ -1,6 +1,6 @@
 Source: wazo-python-flask-classful-packaging
 Section: python
-Priority: extra
+Priority: optional
 Maintainer: Wazo Maintainers <dev.wazo@gmail.com>
 Build-Depends: debhelper (>= 9), dh-python, python-all (>= 2.7), python-setuptools, wget, python3-all, python3-setuptools
 Standards-Version: 3.9.6
@@ -12,9 +12,11 @@ Architecture: all
 Depends: ${shlibs:Depends}, ${python:Depends}, ${misc:Depends}
 Description: Python library for flask
  .
+ Flask-Classful is an extension that adds class-based views to Flask
 
 Package: python3-flask-classful
 Architecture: all
 Depends: ${shlibs:Depends}, ${python3:Depends}, ${misc:Depends}
 Description: Python3 library for flask
  .
+ Flask-Classful is an extension that adds class-based views to Flask
