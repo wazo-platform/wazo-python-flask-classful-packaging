@@ -1,3 +1,9 @@
+wazo-python-flask-classful-packaging (0.13.1-1~wazo11) wazo-dev-bullseye; urgency=medium
+
+  * follow debian copyright guidelines
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 16 Aug 2024 08:07:57 -0400
+
 wazo-python-flask-classful-packaging (0.13.1-1~wazo10) wazo-dev-bullseye; urgency=medium
 
   * update zuul config
