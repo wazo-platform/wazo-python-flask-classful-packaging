@@ -1,3 +1,9 @@
+wazo-python-flask-classful-packaging (0.15.0-1~wazo1) wazo-dev-bullseye; urgency=medium
+
+  * Bump version to 0.15.0
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 07 Jan 2025 07:45:13 -0500
+
 wazo-python-flask-classful-packaging (0.13.1-1~wazo11) wazo-dev-bullseye; urgency=medium
 
   * follow debian copyright guidelines
