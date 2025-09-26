@@ -6,9 +6,7 @@
 PKG = $(word 2,$(shell dpkg-parsechangelog | grep Source))
 VERSION ?= $(shell cat VERSION)
 
-# Workaround for 0.15.0 version
-DOWNLOAD_URL = "https://github.com/pallets-eco/flask-classful/archive/v${VERSION}-b1.tar.gz"
-# DOWNLOAD_URL = "https://github.com/pallets-eco/flask-classful/archive/v${VERSION}.tar.gz"
+DOWNLOAD_URL = "https://github.com/pallets-eco/flask-classful/archive/v${VERSION}.tar.gz"
 
 export PYBUILD_NAME=flask-classful
 export PYBUILD_DISABLE=test
