@@ -1,3 +1,9 @@
+wazo-python-flask-classful-packaging (0.16.0-1~wazo2) wazo-dev-bookworm; urgency=medium
+
+  * Bump version to 0.16.0
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 26 Sep 2025 11:41:39 -0400
+
 wazo-python-flask-classful-packaging (0.15.0-1~wazo2) wazo-dev-bookworm; urgency=medium
 
   * Rebuild for Bookworm
