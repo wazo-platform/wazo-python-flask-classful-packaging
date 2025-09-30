@@ -10,7 +10,6 @@ DOWNLOAD_URL = "https://github.com/pallets-eco/flask-classful/archive/v${VERSION
 
 export PYBUILD_NAME=flask-classful
 export PYBUILD_DISABLE=test
-export PYBUILD_SYSTEM=distutils
 
 %:
 	dh $@ --with python3 --buildsystem=pybuild
